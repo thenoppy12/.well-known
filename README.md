@@ -1,2 +1,2 @@
 # .well-known
-auth for adding domain
+use for auth in adding domains
